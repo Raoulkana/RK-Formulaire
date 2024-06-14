@@ -14,6 +14,7 @@ body {
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     height: 100vh;
+    margin-bottom: 50px;
 }
 
 .container {
@@ -222,5 +223,6 @@ p {
 footer {
     background-color: aqua;
     padding: 10px;
+    margin-top: 50px;
     text-align: center;
 }
